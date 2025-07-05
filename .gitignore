@@ -1,0 +1,7 @@
+# Игнорировать служебные файлы VSCode и Visual Studio
+.vs/
+bin/
+obj/
+*.exe
+*.suo
+*.user
